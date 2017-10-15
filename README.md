@@ -42,7 +42,7 @@ A trader has a portfolio of 65,536 assets (16 qubits), each of which has a risk 
 
 The solution was to build an algorithm that retrieves 1 if the trader's portfolio is risk-balanced, 0 otherwise.
 
-Such algorithm replicated the < a href="https://www.quantiki.org/wiki/deutsch-jozsa-algorithm" > Deutsch–Jozsa algorithm  </a>. 
+Such algorithm replicated the <a href="https://www.quantiki.org/wiki/deutsch-jozsa-algorithm" > Deutsch–Jozsa algorithm  </a>. 
 
 Definition: In Deutsch-Jozsa problem, we are given a black box computing a 0-1 valued function f(x1, x2, ..., xn). The black box takes n bits x1, x2, ..., xn and outputs the value f(x1, x2, ..., xn). We know that the function in the black box is either constant (0 on all inputs or 1 on all inputs) or balanced (returns 1 for half the domain and 0 for the other half). The task is to determine whether f is constant or balanced.
 
