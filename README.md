@@ -31,7 +31,7 @@ And classic circuit diagram:
 
 Translating this into a quantum computing diagram: 
 
-<img src="QuantumDiagram.PNG">
+<img src="QuantumComputingDiagram.PNG">
 
 Which receives a 3-qbit input register enconding the input value in the range of [0,7] and returns a 1-qubit reguster set to value |1> if the input is prime, or |0> otherwise.
 
